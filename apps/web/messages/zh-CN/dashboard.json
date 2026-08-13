@@ -10,6 +10,7 @@
     "healthScore": "健康评分",
     "jobHealth": "作业健康状态",
     "podHealth": "Pod 健康状态"
+    "completeRate": "完成率"
   },
   "alerts": {
     "loadingTitle": "加载中...",
